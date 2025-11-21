@@ -1,0 +1,197 @@
+{
+    "basics": {
+      "name": "Yosra Nabil Shafik",
+      "label": "Flutter Developer | Computer Science Graduate",
+      "email": "yosra.nabil.shafik@gmail.com",
+      "phone": "+20 01122780876",
+      "location": {
+        "city": "Cairo",
+        "region": "Nasr City",
+        "countryCode": "EG"
+      },
+      "summary": "Computer Science graduate with hands-on experience in Flutter app development, AI integration, and cross-functional collaboration. Skilled in building mobile applications, integrating back-end APIs, and applying machine learning techniques to real-world problems.",
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "url": "https://www.linkedin.com/in/yosranabil/"
+        },
+        {
+          "network": "GitHub",
+          "url": "https://github.com/Yosranabil"
+        },
+        {
+          "network": "Kaggle",
+          "url": "https://www.kaggle.com/yosraghoneim"
+        }
+      ]
+    },
+  
+    "education": [
+      {
+        "institution": "Ain-Shams University",
+        "area": "Computer Science",
+        "studyType": "Bachelor's Degree",
+        "startDate": "2021-10-01",
+        "endDate": "2025-07-01"
+      }
+    ],
+  
+    "work": [
+      {
+        "name": "Etisalat Egypt",
+        "position": "IT Intern - Backend Developer (Node.js)",
+        "startDate": "2023-07-01",
+        "endDate": "2023-08-01",
+        "summary": "Worked on internal tools and automation solutions within the IT department.",
+        "highlights": [
+          "Developed and tested RESTful API endpoints.",
+          "Integrated WhatsApp services to build a chatbot.",
+          "Supported multiple internal systems through backend enhancements."
+        ]
+      }
+    ],
+  
+    "volunteer": [
+      {
+        "organization": "ZAKA Ambassadors Egypt",
+        "position": "Machine Learning Trainee",
+        "startDate": "2024-01-01",
+        "endDate": "2024-09-01",
+        "summary": "Participated in hands-on ML workshops and competitions.",
+        "highlights": [
+          "Worked on supervised and unsupervised learning problems.",
+          "Participated in Kaggle competitions applying various ML models."
+        ]
+      },
+      {
+        "organization": "ConnectX Community - Ain Shams University",
+        "position": "Flutter Developer",
+        "startDate": "2023-08-01",
+        "endDate": "2024-10-01",
+        "summary": "Contributed to cross-functional projects involving AI, backend, and mobile teams.",
+        "highlights": [
+          "Developed an Attendance App using face recognition.",
+          "Built a Task Manager App with multi-team collaboration.",
+          "Integrated APIs and contributed to UI implementation."
+        ]
+      },
+      {
+        "organization": "Support Community - Ain Shams University",
+        "position": "Flutter Trainee",
+        "startDate": "2022-06-01",
+        "endDate": "2023-10-01",
+        "summary": "Completed structured Flutter and Dart training.",
+        "highlights": [
+          "Developed a Weather App ranked among top projects.",
+          "Worked on multiple guided tasks and mini-projects."
+        ]
+      }
+    ],
+  
+    "projects": [
+      {
+        "name": "Arabic LMS Mobile App (Graduation Project)",
+        "startDate": "2024-09-01",
+        "endDate": "2025-07-01",
+        "url": "https://github.com/YoustinaEhab/Arabic-Learning-Management-System",
+        "summary": "A learning platform tailored for Arabic-speaking students and teachers.",
+        "highlights": [
+          "Led UI development using Flutter.",
+          "Integrated AI-powered question generation and answering.",
+          "Built a study-resource recommendation system based on quiz performance.",
+          "Connected app to backend APIs."
+        ]
+      },
+      {
+        "name": "Task Manager App",
+        "startDate": "2024-04-01",
+        "endDate": "2025-02-01",
+        "url": "https://github.com/amjad605/task_manger",
+        "summary": "A cross-team project built within the ConnectX community.",
+        "highlights": [
+          "Contributed to UI development and mobile functionality.",
+          "Implemented task listing and filtering features."
+        ]
+      },
+      {
+        "name": "Electronic Device Rating Prediction",
+        "startDate": "2024-05-01",
+        "endDate": "2024-08-01",
+        "summary": "Machine learning model predicting electronic device class/rank.",
+        "highlights": [
+          "Implemented model training using Python and scikit-learn.",
+          "Pickled trained models and wrote test scripts.",
+          "Handled evaluation and validation."
+        ]
+      },
+      {
+        "name": "Attendance Face Recognition App",
+        "startDate": "2023-09-01",
+        "endDate": "2024-06-01",
+        "url": "https://github.com/ayamohamdd/ConnectX_Attendance_App",
+        "summary": "A mobile app recording attendance using face recognition.",
+        "highlights": [
+          "Worked with Flutter, AI, and backend teams.",
+          "Implemented core UI screens and API integrations."
+        ]
+      },
+      {
+        "name": "Tiny Language Compiler",
+        "startDate": "2023-11-01",
+        "endDate": "2023-12-01",
+        "url": "https://github.com/Yosranabil/Tiny-Lang-Compiler",
+        "summary": "A compiler built for an academic course.",
+        "highlights": [
+          "Implemented lexical analysis, parsing, and semantic analysis.",
+          "Developed using C#."
+        ]
+      },
+      {
+        "name": "Forecastly Weather App",
+        "startDate": "2023-04-01",
+        "endDate": "2023-05-01",
+        "summary": "A weather forecast app built using Flutter.",
+        "highlights": [
+          "Ranked among the top projects of the season.",
+          "Implemented 7-day forecasts and location-based search."
+        ]
+      }
+    ],
+  
+    "skills": [
+      {
+        "name": "Programming Languages",
+        "keywords": ["Dart", "C#", "C++", "Python"]
+      },
+      {
+        "name": "Frameworks & Tools",
+        "keywords": ["Flutter", "Firebase", "Figma"]
+      },
+      {
+        "name": "Machine Learning",
+        "keywords": ["Scikit-learn", "Pandas", "NumPy", "Matplotlib"]
+      },
+      {
+        "name": "APIs & Testing",
+        "keywords": ["RESTful APIs", "Postman"]
+      },
+      {
+        "name": "Version Control",
+        "keywords": ["Git", "GitHub"]
+      }
+    ],
+  
+    "awards": [],
+  
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Professional"
+      },
+      {
+        "language": "Arabic",
+        "fluency": "Native"
+      }
+    ]
+  }
+  

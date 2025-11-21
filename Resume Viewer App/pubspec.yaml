@@ -1,0 +1,33 @@
+name: resume_viewer
+description: "A resume viewer Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  downloads_path_provider: ^0.1.0
+  downloadsfolder: ^1.2.0
+  flutter:
+    sdk: flutter
+  flutter_launcher_icons: ^0.14.4
+  http: ^1.6.0
+  path_provider: ^2.1.5
+  permission_handler: ^12.0.1
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/human-resources.png"
