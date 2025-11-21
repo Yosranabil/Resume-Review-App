@@ -1,3 +1,3 @@
-# car_rental_app
+# resume_viewer_app
 
 A new Flutter project.
